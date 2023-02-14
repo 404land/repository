@@ -1,0 +1,16 @@
+{
+	"games": {
+		"reckless": {
+			"name":"reckless line syndrome",
+			"exec":"Reckless"
+		},
+		"canary": {
+			"name":"Canary Woods",
+			"exec":"RpgGame"
+		},
+		"dungeon": {
+			"name":"dungeonforever",
+			"exec":"DungeonForever"
+		}
+	}
+}
