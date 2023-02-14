@@ -9,7 +9,7 @@
 			"exec":"RpgGame"
 		},
 		"dungeon": {
-			"name":"dungeonforever",
+			"name":"Dungeon Forever",
 			"exec":"DungeonForever"
 		}
 	}
