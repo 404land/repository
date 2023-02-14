@@ -6,7 +6,7 @@
 		},
 		"canary": {
 			"name":"Canary Woods",
-			"exec":"RpgGame"
+			"exec":"Canary Woods"
 		},
 		"dungeon": {
 			"name":"Dungeon Forever",

@@ -1,2 +1,3 @@
 download/reckless.sgpf filter=lfs diff=lfs merge=lfs -text
 download/dungeon.sgpf filter=lfs diff=lfs merge=lfs -text
+download/canary.sgpf filter=lfs diff=lfs merge=lfs -text
