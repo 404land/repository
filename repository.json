@@ -2,15 +2,18 @@
 	"games": {
 		"reckless": {
 			"name":"reckless line syndrome",
-			"exec":"Reckless Line Syndrome"
+			"exec":"Reckless Line Syndrome",
+			"description":"draw lines. draw more lines. fail. try again. rinse, repeat, and have fun"
 		},
 		"canary": {
 			"name":"Canary Woods",
-			"exec":"Canary Woods"
+			"exec":"Canary Woods",
+			"description":"A game about money, murder, and the greatest mystery you've ever known."
 		},
 		"dungeon": {
 			"name":"Dungeon Forever",
-			"exec":"DungeonForever"
+			"exec":"DungeonForever",
+			"description":"Mine. Mine a lot. Create an empire. Simple as that."
 		}
 	}
 }
